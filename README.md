@@ -14,11 +14,11 @@ The project demonstrates how SQL can be applied to business-driven questions sim
 A fictional `Orders` table was created with the following columns:  
 
 - **OrderID** - unique identifier for each transaction  
-- **CustomerID** – customer who placed the order  
-- **EmployeeName** – sales rep handling the order  
-- **Region** – customer region  
-- **OrderDate** – date of purchase  
-- **Amount** – transaction amount  
+- **CustomerID** - customer who placed the order  
+- **EmployeeName** - sales rep handling the order  
+- **Region** - customer region  
+- **OrderDate** - date of purchase  
+- **Amount** - transaction amount  
 
 ---
 
@@ -57,8 +57,8 @@ A fictional `Orders` table was created with the following columns:
 ---
 
 ## Files in Repository  
-- `e-commerce-growth-insights.ipynb` → Jupyter Notebook with SQL code & analysis  
-- `cover.png` → Project cover image  
+- `e-commerce-growth-insights.ipynb` - Jupyter Notebook with SQL code & analysis  
+- `cover.png` - Project cover image  
 
 ---
 
