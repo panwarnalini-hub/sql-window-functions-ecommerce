@@ -57,7 +57,7 @@ A fictional `Orders` table was created with the following columns:
 ---
 
 ## Files in Repository  
-- `E-Commerce-Growth-Insights.ipynb` → Jupyter Notebook with SQL code & analysis  
+- `e-commerce-growth-insights.ipynb` → Jupyter Notebook with SQL code & analysis  
 - `cover.png` → Project cover image  
 
 ---
