@@ -66,3 +66,13 @@ A fictional `Orders` table was created with the following columns:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/panwarnalini-hub/sql-window-functions-ecommerce.git
+2. Open the notebook in Jupyter or Kaggle.
+3. Run all cells to reproduce the analysis.
+
+## Author
+
+👩 Nalini Panwar
+
+Kaggle: [@NaliniPanwarData](https://www.kaggle.com/nalinipanwardata)
+
+GitHub: [@panwarnalini-hub](https://github.com/panwarnalini-hub)
